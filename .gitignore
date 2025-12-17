@@ -1,6 +1,5 @@
-node_modules
-dist
-src/*.js
-src/*.map
-src/*.d.ts
-
+node_modules/
+dist/
+build/
+*.log
+.env

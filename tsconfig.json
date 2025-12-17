@@ -1,9 +1,9 @@
 {
   // Visit https://aka.ms/tsconfig to read more about this file
-  "compilerOptions": {
+"compilerOptions": {
     // File Layout
-    // "rootDir": "./src",
-    // "outDir": "./dist",
+    "rootDir": "./src",    // Lokasi kode sumber (.ts)
+    "outDir": "./dist",   // Lokasi hasil kompilasi (.js)
 
     // Environment Settings
     // See also https://aka.ms/tsconfig/module
